@@ -1,3 +1,6 @@
+# pip install rdkit-pypi streamlit py3Dmol stmol
+
+
 from rdkit import Chem
 from rdkit.Chem import AllChem
 import streamlit as st
